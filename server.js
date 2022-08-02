@@ -14,7 +14,7 @@ server.on('request', (request, res) => {
     <title>Document</title>
 </head>
 <body>
-<h1>こんにちは世界</h1>
+<h1>こんにちは世界！</h1>
 </body>
 </html>`)
 })
